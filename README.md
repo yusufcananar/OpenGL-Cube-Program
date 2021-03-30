@@ -45,3 +45,6 @@ WORKSPACE
                              
 ```
 
+You will need to download "#glm" and extract the folder in the "#vendor" directory.
+You will need to download "#glad" and "#GLFW" and extract the folders in the "#Dependencies" directory.
+
