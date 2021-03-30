@@ -49,3 +49,11 @@ WORKSPACE
 
 Here is a screenshot of the program:
 ![Screenshot](im1.PNG)
+
+
+
+# References
+
+[Perfect OpenGL Tutorial](https://learnopengl.com) <Enter>
+  
+[Explanation of imgui](https://www.youtube.com/watch?v=nVaQuNXueFw&t=1s) <Enter>
