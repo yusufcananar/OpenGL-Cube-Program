@@ -1,9 +1,14 @@
 ## OpenGL-Cube-Program
 A program that can illustrate computer graphic fundamentals
 
-To make it work the program, you will need to add "Dependencies" folder in your solution directory(i.e. create the folder where your yourproject.sln). Inside you will need to add glad and GLFW libraries.
+To make it work the program, you will need to add **Dependencies** folder in your solution directory(i.e. create the folder where your yourproject.sln). 
 
-This is how your directory tree should look like:
+You will need to download **glm** and extract the folder in the **vendor** directory.
+You will need to download **glad** and **GLFW** and extract the folders in the **Dependencies** directory.
+
+In this case **cube3d.cpp** is your main.
+
+This is how your directory should be:
 ```
 WORKSPACE
         |
@@ -38,13 +43,9 @@ WORKSPACE
                                       glm
                                       imgui
                                       shader
-                                      stb_image
-                    
-                    
-                    
+                                      stb_image              
                              
 ```
 
-You will need to download "glm</b>" and extract the folder in the "#vendor" directory.
-You will need to download "#glad" and "#GLFW" and extract the folders in the "#Dependencies" directory.
-
+Here is a screenshot of the program:
+![alt text](https://github.com/[Fjolnirr]/[OpenGL-Cube-Program]/blob/[branch]/im1.png?raw=true)
