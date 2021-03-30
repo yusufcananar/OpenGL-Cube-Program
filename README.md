@@ -1,5 +1,6 @@
 ## OpenGL-Cube-Program
 A program that can illustrate computer graphic fundamentals
+You can use this program to illustrate students the fundamentals of computer graphics.
 
 To make it work the program, you will need to add **Dependencies** folder in your solution directory(i.e. create the folder where your yourproject.sln). 
 
