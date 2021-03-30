@@ -48,4 +48,4 @@ WORKSPACE
 ```
 
 Here is a screenshot of the program:
-![alt text](https://https://github.com/Fjolnirr/OpenGL-Cube-Program/im1.PNG?raw=true)
+![Screenshot](im1.PNG)
